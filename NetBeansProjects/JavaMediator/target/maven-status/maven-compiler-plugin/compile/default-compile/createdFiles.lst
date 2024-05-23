@@ -1,0 +1,7 @@
+Main.class
+ConcreteMediator.class
+com\mycompany\javamediator\Mywork.class
+com\mycompany\javamediator\JavaMediator.class
+CollegueInterface.class
+ConcreteCollegue.class
+MediatorInterface.class
